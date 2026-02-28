@@ -433,7 +433,7 @@ const HomeTab: React.FC<{ onSelect: (c: Character) => void }> = ({ onSelect }) =
     >
       {/* Header */}
       <div className="space-y-1 text-center mb-6">
-        <h2 className="text-spy-gold font-serif text-xl tracking-widest border-b border-spy-gold/30 pb-2">OPERATION: ROYAL RECEPTION</h2>
+        <h2 className="text-spy-gold font-serif text-xl tracking-widest border-b border-spy-gold/30 pb-2">OPERATION</h2>
         <p className="text-gray-500 text-xs font-mono uppercase tracking-widest mt-1">TOP SECRET // EYES ONLY</p>
       </div>
 
