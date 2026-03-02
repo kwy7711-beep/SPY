@@ -105,21 +105,21 @@ const CHARACTERS: Character[] = [
       clearance: 'Level 0 (Classified Asset)'
     },
     gallery: [
-      'https://spy.jjerrii.uk/B/1.png',
-      'https://spy.jjerrii.uk/B/2.png',
-      'https://spy.jjerrii.uk/B/3.png',
-      'https://spy.jjerrii.uk/B/4.png',
-      'https://spy.jjerrii.uk/B/5.png',
-      'https://spy.jjerrii.uk/B/6.png',
-      'https://spy.jjerrii.uk/B/7.png',
-      'https://spy.jjerrii.uk/B/8.png',
-      'https://spy.jjerrii.uk/B/9.png',
-      'https://spy.jjerrii.uk/B/10.png',
-      'https://spy.jjerrii.uk/B/11.png',
-      'https://spy.jjerrii.uk/B/12.png',
-      'https://spy.jjerrii.uk/B/13.png',
-      'https://spy.jjerrii.uk/B/14.png',
-      'https://spy.jjerrii.uk/B/15.png'
+      'https://spy.jjerrii.uk/B/a/1.png',
+      'https://spy.jjerrii.uk/B/a/2.png',
+      'https://spy.jjerrii.uk/B/a/3.png',
+      'https://spy.jjerrii.uk/B/a/4.png',
+      'https://spy.jjerrii.uk/B/a/5.png',
+      'https://spy.jjerrii.uk/B/a/6.png',
+      'https://spy.jjerrii.uk/B/a/7.png',
+      'https://spy.jjerrii.uk/B/a/8.png',
+      'https://spy.jjerrii.uk/B/a/9.png',
+      'https://spy.jjerrii.uk/B/a/10.png',
+      'https://spy.jjerrii.uk/B/a/11.png',
+      'https://spy.jjerrii.uk/B/a/12.png',
+      'https://spy.jjerrii.uk/B/a/13.png',
+      'https://spy.jjerrii.uk/B/a/14.png',
+      'https://spy.jjerrii.uk/B/a/15.png'
     ]
   }
 ];
